@@ -10,6 +10,7 @@ public class HelloController {
         System.out.println("hello");
         System.out.println("hello1");
         System.out.println("master");
+        System.out.println("hot-fix");
         return "hello,SpringBoot2!";
     }
 
