@@ -11,6 +11,7 @@ public class HelloController {
         System.out.println("hello1");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push-test");
         return "hello,SpringBoot2!";
     }
 
