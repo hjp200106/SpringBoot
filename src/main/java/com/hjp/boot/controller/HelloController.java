@@ -9,6 +9,7 @@ public class HelloController {
     public String handle01(){
         System.out.println("hello");
         System.out.println("hello1");
+        System.out.println("master");
         return "hello,SpringBoot2!";
     }
 
